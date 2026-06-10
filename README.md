@@ -175,5 +175,5 @@ MIT — используйте, изменяйте, распространяйт
 
 ## Связанные скиллы
 
-- [`russian-editorial-review`](https://github.com/sportlosos/claude-russian-editor) — оформление текста по справочнику Мильчина и Чельцовой
-- `english-style-editor` — редактура английского текста по Странку и Уайту
+- [`russian-editorial-review`](https://github.com/Halfofthesky/claude-russian-editor) — оформление текста по справочнику Мильчина и Чельцовой
+- [`english-style-editor`](https://github.com/Halfofthesky/elements-of-style) — редактура английского текста по Странку и Уайту
