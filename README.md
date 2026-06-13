@@ -177,3 +177,4 @@ MIT — используйте, изменяйте, распространяйт
 
 - [`russian-editorial-review`](https://github.com/Halfofthesky/claude-russian-editor) — оформление текста по справочнику Мильчина и Чельцовой
 - [`english-style-editor`](https://github.com/Halfofthesky/elements-of-style) — редактура английского текста по Странку и Уайту
+- [`russian-humanizer`](https://github.com/leshchenko1979/russian-humanizer) — удаление следов ИИ из русских текстов (25 паттернов с примерами до/после). Дополняет nora-gal: мы лечим канцелярит и переводы, russian-humanizer — машинность и AI-штампы. [Уже сослались на нас →](https://github.com/leshchenko1979/russian-humanizer#связанные-проекты)
